@@ -9,5 +9,7 @@ namespace ConsoleApp2
     class NewClass
     {
         Console.WriteLine("Novo");
+        Console.WriteLine("Nova promjena");
     }
 }
+//promjena
